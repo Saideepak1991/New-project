@@ -31,6 +31,8 @@ public class GithupFoms {
 	public static void main(String[] args) throws AWTException, InterruptedException  {
 		// TODO Auto-generated method stub
 
+		// forms updated
+		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\SAI PAVEEN\\Desktop\\Testing\\Java\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver(); 
 		driver.get("https://dineshvelhal.github.io/testautomation-playground/forms.html");
